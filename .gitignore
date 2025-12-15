@@ -1,0 +1,16 @@
+.venv
+
+mlartifacts/
+mlflow.db
+
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.env
+.env*
+
+logs/
+data/
+output/
